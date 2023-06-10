@@ -1,0 +1,3 @@
+- Need to add a client side websocket handler
+- add a prod and dev server mode
+- hot reloading 

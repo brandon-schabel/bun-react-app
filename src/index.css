@@ -1,0 +1,8 @@
+/* make .app background very slowly transition to different colors */
+.app {
+  background-color: gray;
+  transition: background-color 1s ease-in-out;
+}
+
+
+
